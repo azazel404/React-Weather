@@ -1,0 +1,19 @@
+.form-all{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.h1{
+ margin-top: 100px;
+}
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+     
+}
+svg{
+    height: 150px;
+}
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
